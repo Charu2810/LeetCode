@@ -45,4 +45,9 @@ Leetcode questions that i did till now and keep on doing...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/Charu2810/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charu2810/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
