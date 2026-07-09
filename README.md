@@ -24,6 +24,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charu2810/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/Charu2810/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -34,4 +35,8 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charu2810/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
