@@ -17,6 +17,7 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/Charu2810/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Charu2810/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
