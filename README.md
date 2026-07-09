@@ -11,6 +11,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Charu2810/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Charu2810/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
