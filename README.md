@@ -10,6 +10,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0136-single-number](https://github.com/Charu2810/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Charu2810/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
