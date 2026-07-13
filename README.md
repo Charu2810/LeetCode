@@ -36,6 +36,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charu2810/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charu2810/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Charu2810/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Charu2810/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -60,6 +61,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0055-jump-game](https://github.com/Charu2810/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Charu2810/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Charu2810/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Charu2810/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Charu2810/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -93,6 +95,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
