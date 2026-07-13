@@ -100,4 +100,8 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Charu2810/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
