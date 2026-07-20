@@ -22,6 +22,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0066-plus-one](https://github.com/Charu2810/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -57,6 +58,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Charu2810/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Charu2810/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
