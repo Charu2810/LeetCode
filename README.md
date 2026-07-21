@@ -41,6 +41,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Charu2810/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Charu2810/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Charu2810/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
