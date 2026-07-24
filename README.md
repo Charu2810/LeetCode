@@ -28,6 +28,7 @@ Leetcode questions that i did till now and keep on doing...
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charu2810/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charu2810/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charu2810/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Charu2810/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu2810/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -63,6 +64,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0190-reverse-bits](https://github.com/Charu2810/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charu2810/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charu2810/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +97,7 @@ Leetcode questions that i did till now and keep on doing...
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charu2810/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Charu2810/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charu2810/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charu2810/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu2810/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Charu2810/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Charu2810/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charu2810/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
