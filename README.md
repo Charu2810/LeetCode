@@ -24,6 +24,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Charu2810/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charu2810/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -91,6 +92,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0169-majority-element](https://github.com/Charu2810/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Charu2810/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Charu2810/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -137,6 +139,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0169-majority-element](https://github.com/Charu2810/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Charu2810/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Charu2810/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu2810/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
