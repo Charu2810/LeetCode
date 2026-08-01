@@ -26,6 +26,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charu2810/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charu2810/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -99,6 +100,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0136-single-number](https://github.com/Charu2810/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Charu2810/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/Charu2810/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charu2810/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -119,6 +121,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charu2810/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +238,8 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Charu2810/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
