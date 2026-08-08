@@ -24,6 +24,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Charu2810/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Charu2810/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -141,6 +142,7 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Charu2810/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Charu2810/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Greedy
@@ -287,4 +289,8 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Charu2810/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Charu2810/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
