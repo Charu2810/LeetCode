@@ -37,6 +37,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Charu2810/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Charu2810/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Charu2810/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -127,6 +128,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Charu2810/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Charu2810/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Charu2810/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -153,6 +155,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Charu2810/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Charu2810/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charu2810/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Binary Search
@@ -291,6 +294,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Charu2810/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Charu2810/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
