@@ -73,6 +73,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0796-rotate-string](https://github.com/Charu2810/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1927-sum-game](https://github.com/Charu2810/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Charu2810/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -400,4 +401,8 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Charu2810/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Charu2810/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
