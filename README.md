@@ -169,6 +169,7 @@ Leetcode questions that i did till now and keep on doing...
 | [3875-construct-uniform-parity-array-i](https://github.com/Charu2810/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Charu2810/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Charu2810/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Charu2810/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +298,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1872-stone-game-viii](https://github.com/Charu2810/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Charu2810/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Charu2810/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
