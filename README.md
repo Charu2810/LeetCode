@@ -68,6 +68,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/Charu2810/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Charu2810/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Charu2810/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -176,6 +177,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0045-jump-game-ii](https://github.com/Charu2810/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Charu2810/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Charu2810/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Charu2810/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
