@@ -14,6 +14,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Charu2810/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Charu2810/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charu2810/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Charu2810/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Charu2810/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -159,6 +160,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Charu2810/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Charu2810/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Charu2810/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Charu2810/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Charu2810/LeetCode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
@@ -209,6 +211,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Charu2810/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Charu2810/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Charu2810/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -237,6 +240,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charu2810/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Charu2810/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Charu2810/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Charu2810/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -317,6 +321,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Charu2810/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Charu2810/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Charu2810/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Charu2810/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
