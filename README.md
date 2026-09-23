@@ -125,6 +125,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0067-add-binary](https://github.com/Charu2810/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1929-concatenation-of-array](https://github.com/Charu2810/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Charu2810/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Charu2810/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charu2810/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -158,6 +159,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Charu2810/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/Charu2810/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [1929-concatenation-of-array](https://github.com/Charu2810/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Charu2810/LeetCode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Charu2810/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Charu2810/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
