@@ -167,6 +167,7 @@ Leetcode questions that i did till now and keep on doing...
 | [1480-running-sum-of-1d-array](https://github.com/Charu2810/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1563-stone-game-v](https://github.com/Charu2810/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Charu2810/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1872-stone-game-viii](https://github.com/Charu2810/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Charu2810/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Charu2810/LeetCode/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
@@ -345,6 +346,7 @@ Leetcode questions that i did till now and keep on doing...
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Charu2810/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
