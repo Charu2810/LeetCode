@@ -43,6 +43,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0836-rectangle-overlap](https://github.com/Charu2810/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Charu2810/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Charu2810/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Charu2810/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -118,6 +119,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0136-single-number](https://github.com/Charu2810/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Charu2810/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Charu2810/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Charu2810/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Charu2810/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Charu2810/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Charu2810/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
