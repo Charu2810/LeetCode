@@ -85,6 +85,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0412-fizz-buzz](https://github.com/Charu2810/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/Charu2810/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Charu2810/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Charu2810/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1927-sum-game](https://github.com/Charu2810/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -338,6 +339,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Charu2810/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Charu2810/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
