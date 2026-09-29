@@ -460,4 +460,8 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Charu2810/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Charu2810/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
