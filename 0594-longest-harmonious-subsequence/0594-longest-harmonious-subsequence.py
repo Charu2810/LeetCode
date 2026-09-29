@@ -1,14 +1,12 @@
-class Solution(object):
-    def findLHS(self, nums):
-        freq = {}
-        for i in nums:
-            if i not in freq:
-                freq[i] = 1
-            else:
-                freq[i] += 1
-        ans = 0
-        for i in freq:
-            if i + 1 in freq:
-                if freq[i] + freq[i + 1] > ans:
-                    ans = freq[i] + freq[i + 1]
-        return ans
+class Solution:
+    def findLHS(self, nums: list[int]) -> int:
+        nums.sort()
+        j = 0
+        maxLength = 0
+
+        for i in range(len(nums)):
+            while nums[i] - nums[j] > 1:
+                j += 1
+            if nums[i] - nums[j] == 1:
+                maxLength = max(maxLength, i - j + 1)
+        return maxLength
