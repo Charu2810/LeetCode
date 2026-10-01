@@ -9,6 +9,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0001-two-sum](https://github.com/Charu2810/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charu2810/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Charu2810/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Charu2810/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/Charu2810/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Charu2810/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -148,6 +149,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Charu2810/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Charu2810/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/Charu2810/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Charu2810/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Charu2810/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Charu2810/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -356,6 +358,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Charu2810/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Charu2810/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Charu2810/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Recursion
