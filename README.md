@@ -88,6 +88,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/Charu2810/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Charu2810/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Charu2810/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Charu2810/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Charu2810/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -218,6 +219,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Charu2810/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Charu2810/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/Charu2810/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Charu2810/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Charu2810/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Charu2810/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Charu2810/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -240,6 +242,7 @@ Leetcode questions that i did till now and keep on doing...
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Charu2810/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Charu2810/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Charu2810/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Charu2810/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/Charu2810/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -352,6 +355,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0020-valid-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Charu2810/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Charu2810/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Charu2810/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charu2810/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Charu2810/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -475,6 +479,7 @@ Leetcode questions that i did till now and keep on doing...
 | [0020-valid-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Charu2810/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Charu2810/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Charu2810/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
