@@ -488,6 +488,7 @@ Leetcode questions that i did till now and keep on doing...
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Charu2810/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Charu2810/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Charu2810/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/Charu2810/LeetCode/tree/main/0197-rising-temperature/) | Easy |
